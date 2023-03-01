@@ -11,7 +11,7 @@ I know that this project will not be profitable , But, I wanted to make this pro
 
 # Components List
 
-1. RK3188-SOM-EVB
+1. RK3188-SOM-EVB https://www.mouser.in/ProductDetail/Olimex-Ltd/RK3188-SOM-4GB?qs=AQlKX63v8Rsyd7gLkRgyJw%3D%3D
 2. A LCD (I have not actually picked one as of now)
 3. A LiPo (I need to do some estimations)
 4. A PCB (Designs will be posted here when they are done)
