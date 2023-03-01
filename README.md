@@ -27,7 +27,12 @@ I know that this project will not be profitable , But, I wanted to make this pro
 6. Make the custom version of TachiDesk
 7. Ask Tamanash to help with the react native browser thing , or it will be replaced by firefox
 
+# Software
+
+This project is supposed to use https://github.com/Suwayomi/Tachidesk-Sorayomi/ if i can figure out hosting a docker instance of tachidesk
+
 # FAQs
 Q. Why is the name in Kanji
 
 Ans. It is in Kanji as this reader was originally supposed to be limited to only reading manga. (And the tachiyomi discord suggested it)
+
