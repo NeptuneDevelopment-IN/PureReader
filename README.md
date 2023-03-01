@@ -1,6 +1,14 @@
 # 清 Reader
 A simple E-Reader based on the RK3188-SOM-EVB
 
+# Why this Project?
+
+I know that this project will not be profitable , But, I wanted to make this project as :-
+
+1. I am bored
+2. I wanted to read Mangas and other books without any other distractions
+3. There is no product in the market that is like this
+
 # Components List
 
 1. RK3188-SOM-EVB
